@@ -27,7 +27,10 @@ SportShop es una plataforma de comercio electrónico moderna y completa especial
 - [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitario
 - [Lucide React](https://lucide.dev/) - Biblioteca de iconos
 
-
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
 
 - **Estado y gestión de datos**:
 
